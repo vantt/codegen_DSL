@@ -1,6 +1,7 @@
 # L3-ComponentUseDSL Requirements
 
 ## 1. Purpose & Objectives
+L3-ComponentUseDSL is a domain-specific language designed to provide implementation guidance, usage patterns, and best practices for components defined in L2-SpecDSL. This language bridges the gap between component specifications and actual implementation.
 
 ### 1.1 Primary Purpose
 - Enable GenAI to understand how to use components defined in L2-SpecDSL

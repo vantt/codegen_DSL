@@ -42,3 +42,26 @@ The Base DSL is designed to be a foundation for code generation across different
     updated: date
     status: DRAFT | REVIEW | APPROVED
 }
+
+3. Property Definitions:
+```
+propertyName: {
+    type: STRING | INTEGER | BOOLEAN | etc.
+    required: true | false
+    default: "<value>"
+    validation: {
+        // validation rules
+    }
+    description: "<description>"
+}
+```
+
+5. Dependencies:
+```
+dependencies: {
+    "<dependency>": {
+        version: "<version-constraint>"
+        required: true | false
+    }
+}
+```
