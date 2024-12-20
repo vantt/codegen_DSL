@@ -20,19 +20,21 @@ These DSLs will be used in a workflow that starts with app ideas, progresses to 
 - [DSL Base Syntax Requirements](doc/requirements/DSL%20Base%20Syntax%20Requirements.md)
   
 ### L0-BasicSyntax
-- [Requirements](doc/Basic-Syntax/Requirements.md)
-- [Syntax](doc/Basic-Syntax/Syntax.md)
+- [Requirements](doc/L0-BaseDSL/Requirements.md)
+- [Syntax](doc/L0-BaseDSL/syntax/Main.md)
   
 ### L1-DesignDSL
 - [Requirements](doc/L1-DesignDSL/Requirements.md)
-- [Syntax](doc/L1-DesignDSL/Syntax.md)
+- [Syntax](doc/L1-DesignDSL/syntax/Main.md)
 
 ### L2-SpecDSL
 - [Requirements](doc/L2-SpecDSL/Requirements.md)
-- [Syntax](doc/L2-SpecDSL/Syntax.md)
+- [Syntax](doc/L2-SpecDSL/syntax/Main.md)
 
 ### L3-ComponentUseDSL
 - [Requirements](doc/L3-ComponentUseDSL/Requirements.md)
+- [Syntax](doc/L3-ComponentUseDSL/syntax/Main.md)
+
 
 ## Requirements
 
